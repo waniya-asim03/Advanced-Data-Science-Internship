@@ -11,7 +11,7 @@ This repository contains my solutions for the Advanced Data Science Internship. 
 │   └── task_02             # K-Means Clustering & t-SNE Analysis
 ├── Task_03_Energy_Forecasting/
 │   └── task_03         # Time Series (ARIMA, Prophet, XGBoost)
-├── Task_04_Credit_Risk/
+├── Task_04_Loan Default Risk/
 │   └── task_04     # CatBoost Classification Model
 ├── Task_05_Business_Dashboard/
 │   ├── app.py                      # Streamlit Application
